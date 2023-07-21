@@ -1,0 +1,55 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\Debug\MicroProject.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>MicroProject.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>MicroProject.map</FILE>
+  <FILE>MicroProject.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>20</LINE></main>
+  <INCREMENT><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>213</LINE></INCREMENT>
+  <LIGHT1_SW><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>153</LINE></LIGHT1_SW>
+  <LIGHT2_SW><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>159</LINE></LIGHT2_SW>
+  <wait_1s><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>142</LINE></wait_1s>
+  <rout2><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>66</LINE></rout2>
+  <rout1><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>62</LINE></rout1>
+  <YellowOn><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>115</LINE></YellowOn>
+  <SETTING><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>165</LINE></SETTING>
+  <Switch><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>127</LINE></Switch>
+  <SUB1><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>82</LINE></SUB1>
+  <CON1><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>87</LINE></CON1>
+  <rout3><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>92</LINE></rout3>
+  <WAIT_40ms><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>224</LINE></WAIT_40ms>
+  <YellowOn1><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>119</LINE></YellowOn1>
+  <YellowOn2><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>123</LINE></YellowOn2>
+  <Switch1><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>132</LINE></Switch1>
+  <Switch2><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>137</LINE></Switch2>
+  <passed_1s><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>147</LINE></passed_1s>
+  <SKIP1><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>157</LINE></SKIP1>
+  <SKIP2><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>163</LINE></SKIP2>
+  <SETTING_RED><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>181</LINE></SETTING_RED>
+  <SUB2><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>184</LINE></SUB2>
+  <CON2><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>189</LINE></CON2>
+  <RETURN><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>206</LINE></RETURN>
+  <INC_RED><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>216</LINE></INC_RED>
+  <RED_OVF><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>221</LINE></RED_OVF>
+  <rr><FILE>C:\Users\Mohammad\Documents\Atmel Studio\7.0\MicroProject\MicroProject\main.asm</FILE><LINE>228</LINE></rr>
+ </LABELS>
+</ASSEMBLER_INFO>
